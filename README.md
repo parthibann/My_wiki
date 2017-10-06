@@ -5,5 +5,5 @@ Repository for maintaining articles, blogs, wiki for reference.
 * [Continuous Integration & Coding Standards](https://github.com/parthibann/My_wiki/wiki/Continuous-Integration-and-Coding-Standards)
 * [Automation Development Life Cycle](https://github.com/parthibann/My_wiki/wiki/Automation-Development-Life-Cycle-(ADLC))
 * [Cryptography](https://github.com/parthibann/My_wiki/wiki/Cryptography)
-* [Enablind Test Automation in Testlink](https://github.com/parthibann/Python-TestLink-Runner/wiki/Enabling-Test-Automation-in-Testlink)
+* [Enabling Test Automation in Testlink](https://github.com/parthibann/Python-TestLink-Runner/wiki/Enabling-Test-Automation-in-Testlink)
 * [Python TestLink Runner](https://github.com/parthibann/Python-TestLink-Runner/wiki/How-to-use-Python-TestLink-Runner)
