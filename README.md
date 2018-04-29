@@ -9,3 +9,4 @@ Repository for maintaining articles, blogs, wiki for reference.
 * [Python TestLink Runner](https://github.com/parthibann/Python-TestLink-Runner/wiki/How-to-use-Python-TestLink-Runner)
 * [Version Control System, GIT Cheat Sheet, Git Workflow](https://github.com/parthibann/My_wiki/wiki/Version-Control-System-(GIT))
 * [Rundeck API](https://github.com/parthibann/My_wiki/wiki/Rundeck-API)
+* [Packaging linux applications](https://github.com/parthibann/My_wiki/wiki/Learn-how-to-package-your-linux-applications)
