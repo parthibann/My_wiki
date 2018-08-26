@@ -10,3 +10,4 @@ Repository for maintaining articles, blogs, wiki for reference.
 * [Version Control System, GIT Cheat Sheet, Git Workflow](https://github.com/parthibann/My_wiki/wiki/Version-Control-System-(GIT))
 * [Rundeck API](https://github.com/parthibann/My_wiki/wiki/Rundeck-API)
 * [Packaging linux applications](https://github.com/parthibann/My_wiki/wiki/Learn-how-to-package-your-linux-applications)
+* [Create and manage SSL certificates using python](Pythonic-way-to-generate-and-maintain-SSL-certificates)
