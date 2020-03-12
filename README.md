@@ -13,3 +13,4 @@ Repository for maintaining articles, blogs, wiki for reference.
 * [Create and manage SSL certificates using python](Pythonic-way-to-generate-and-maintain-SSL-certificates)
 * [Ansible cheat sheet](https://github.com/parthibann/My_wiki/wiki/ANSIBLE-CHEAT-SHEET)
 * [Running python-flask application inside docker](https://github.com/parthibann/My_wiki/wiki/Running-python-flask-web-application-inside-docker-container)
+* [Prometheus metrics for python-flask application](https://github.com/parthibann/My_wiki/wiki/Monitoring-your-python-flask-web-application-using-prometheus-and-visualize-it-in-grafana)
